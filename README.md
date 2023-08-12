@@ -14,7 +14,6 @@ $ pip install -r requirements.txt
 
 You are now ready to use it. 
 
----
 
 ## Usage
 
