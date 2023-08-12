@@ -25,11 +25,3 @@ $ python todo.py
 ```
 
 
----
-
-## Limitations and Common Issues
-- There are not any limitation or common issue right now.
-
----
-
-
